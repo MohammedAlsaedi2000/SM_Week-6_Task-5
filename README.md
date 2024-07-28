@@ -82,7 +82,7 @@ void loop() {
     digitalWrite(right_motorCCW, LOW);
     digitalWrite(right_motorCW, HIGH);   
   }
-  //
+  
 
       if (Right == HIGH) {
     digitalWrite(left_motorCCW, LOW);
@@ -96,7 +96,7 @@ void loop() {
     digitalWrite(right_motorCCW, HIGH);
     digitalWrite(right_motorCW, LOW);   
   }
-/////
+
   
 
 
@@ -113,12 +113,6 @@ void loop() {
     digitalWrite(right_motorCW, HIGH);   
   }
 
-
-
-
-
-
-  
 
     
 }
